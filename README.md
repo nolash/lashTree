@@ -5,6 +5,10 @@ This library aims to be a fast and elegant way of storing generic structs (or ev
 
 Is written as a backend for A* pathfinding code.
 
+# DEPENDENCIES
+
+None
+
 # LICENSE
 
 This software is released under the [GNU GENERAL PUBLIC LICENSE](@ref LICENSE.md)
