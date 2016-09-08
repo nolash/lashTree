@@ -1,5 +1,5 @@
-#include "lash_tree3_dump.h"
-#include "lash_tree3.h"
+#include "liblash/lash_tree3_dump.h"
+#include "liblash/lash_tree3.h"
 #include <stdio.h>
 #include <stdlib.h>
 
